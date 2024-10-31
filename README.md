@@ -1,6 +1,5 @@
 # Ex-05-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu
-## Reg.no: 212222040167
-## Name: Surya R
+
 ## AIM
 
 To implement Pseudo Node configuration for Hadoop on ubuntu
@@ -85,7 +84,6 @@ Verify java & hadoop installation using
 
     $ bin/hadoop version
 ```
-
 
 
 7.	Configuration of the hadoop files: hadoop-env.sh, core-site.xml, mapred-site.xml, hdfs- site.xml and yarn-site.xml
@@ -215,4 +213,3 @@ View the output files on the distributed file system
 ```
 ## Result:
 Thus, the implementation of Pseudo Node configuration for Hadoop on ubuntu is successfully executed.
-
